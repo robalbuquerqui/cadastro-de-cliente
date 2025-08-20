@@ -27,7 +27,7 @@ def cadastro():
 
 while True:
     menu()
-    opcao = input('Escolha uma opcao: ')
+    opcao = input('Escolha uma opção: ')
 
     if opcao == '1':
        cadastro()
